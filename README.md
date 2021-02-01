@@ -1,2 +1,2 @@
 # Super-store-Data-Analysis
-![image](https://public.tableau.com/profile/maitry.shah6929#!/vizhome/Advancesuperstore-Analysis/StateDashboard)
+![image](file:///Users/shahh5/Desktop/Tableau-projects/Advance%20Tbl/State%20Dashboard.png)
